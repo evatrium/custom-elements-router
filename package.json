@@ -32,12 +32,12 @@
 	},
 	"peerDependenciesMeta": {},
 	"peerDependencies": {
-		"@iosio/routing": "^0.1.1",
-		"@iosio/util": "^0.3.6"
+		"@iosio/routing": "^0.1.2",
+		"@iosio/util": "^0.3.8"
 	},
 	"dependencies": {
-		"@iosio/routing": "^0.1.1",
-		"@iosio/util": "^0.3.6"
+		"@iosio/routing": "^0.1.2",
+		"@iosio/util": "^0.3.8"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.5.5",
