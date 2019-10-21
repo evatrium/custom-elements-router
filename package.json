@@ -1,6 +1,6 @@
 {
 	"name": "@iosio/custom-elements-router",
-	"version": "0.5.4",
+	"version": "0.0.4",
 	"description": "page per route router for custom elements. supports lazy loading",
 	"main": "index.js",
 	"module": "index.js",
